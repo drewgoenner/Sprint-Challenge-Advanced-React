@@ -8,7 +8,7 @@ import { Card, Grid } from 'semantic-ui-react';
 class PlayerList extends React.Component {
 
     render() {
-        console.log(this.props)
+        
         return (
             <Grid centered columns={3}>
             <Grid.Row padded='vertically' columns={3}>
